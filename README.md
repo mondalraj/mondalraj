@@ -9,7 +9,7 @@
 - I’m looking to collaborate on **any project which solves any real-life problem**
 - I'm a **Young Tech Explorer** who loves to try out different domains of technology existing on the planet 🌍
 
-<h1>My Tech Bucket</h1>
+<h1>My Tech Bucket 👨‍💻</h1>
 
 ### Programming languages
 <p> 
@@ -42,13 +42,13 @@
     <a href="#"><img alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 </p>
 
-<h1>My GitHub Stats <img src="https://media.giphy.com/media/cmOBZdewjfLzV9NQiH/giphy.gif" width="48" /></h1>
+<h1>My GitHub Stats ⚡️</h1>
 
 |<img align=center alt="mondalraj's streak" src="https://github-readme-stats.vercel.app/api?username=mondalraj&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=mondalraj" />
 |---|---|
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Social Links:</h3>
 
  <a href="mailto:mondalrajib2002@gmail.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/dev-rajib-mondal/"><img alt="Heroku" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
