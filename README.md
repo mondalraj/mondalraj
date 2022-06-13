@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm A Passionate, Young Application Developer from India</h1>
+<h1 align="center">Hi 👋, I'm A Passionate Web3 Application Developer from India</h1>
 
 <a align="center" href="https://mondalraj.github.io/rajib-mondal-portfolio/"> <img alt="Portfolio" src ="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fmukulrajpoot.com"> </a>
 <a href="mailto:mondalrajib2002@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
