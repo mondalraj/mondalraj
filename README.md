@@ -4,7 +4,7 @@
 <a href="mailto:mondalrajib2002@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/dev-rajib-mondal/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://twitter.com/raj_mondal2002"><img alt="Twitter" src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-   <a href="https://hashnode.com/@mondalraj"> <img alt="Blogs" src ="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"> </a>
+   <a href="https://rajibmondal.hashnode.dev/"> <img alt="Blogs" src ="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"> </a>
    <a href="https://leetcode.com/mondal021002rajib"> <img alt="Leetcode" src ="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"> </a>
 
 - I'm currently working as a **Software Developer** at [Simply Jet](https://www.simply-jet.ch/en/) ✈️
