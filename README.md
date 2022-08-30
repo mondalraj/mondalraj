@@ -79,5 +79,5 @@
 
 <h1>My GitHub Stats ⚡️</h1>
 
-|<img align=center alt="mondalraj's streak" src="https://github-readme-stats.vercel.app/api?username=mondalraj&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=mondalraj" />
+|<img align=center alt="mondalraj's streak" src="https://github-readme-stats.vercel.app/api?username=mondalraj&show_icons=true&count_private=true&include_all_commits=true"/>|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mondalraj&layout=compact)](https://github.com/mondalraj/github-readme-stats)
 |---|---|
