@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm A Passionate Web3 Application Developer from India</h1>
+<h1 align="center">Hi 👋, I'm A Passionate Self-Taught Software Developer from India</h1>
+
+| 👨‍💻 Full Stack Developer | ⧫ Web3 Application Developer | 🤖 Learning Data Science | 
+| --- | ----------- | ---- |
 
 <a align="center" href="https://mondalraj.github.io/rajib-mondal-portfolio/"> <img alt="Portfolio" src ="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fmukulrajpoot.com"> </a>
 <a href="mailto:mondalrajib2002@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -8,8 +11,7 @@
    <a href="https://leetcode.com/mondal021002rajib"> <img alt="Leetcode" src ="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"> </a>
 
 - I'm currently working as a **Software Developer** at [Simply Jet](https://www.simply-jet.ch/en/) ✈️
-- Currently, I’m working on my hobby project - [Devshowcase Application](https://devshowcase-22.vercel.app/) 💻
-- Scratching my head in learning **Blockchain Application Development** (Web / Mobile App)
+- Currently learning Data Science to implement my Startup Idea into working prototype 💡
 - I’m looking to collaborate on **any project which solves any real-life problem**
 - I'm a **Young Tech Explorer** who loves to try out different domains of technology existing on the planet 🌍
 
