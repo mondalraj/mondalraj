@@ -11,7 +11,7 @@
    <a href="https://leetcode.com/mondal021002rajib"> <img alt="Leetcode" src ="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"> </a>
 
 - I'm currently working as a **Software Developer** at [Simply Jet](https://www.simply-jet.ch/en/) ✈️
-- Currently learning Data Science to implement my Startup Idea into working prototype 💡
+- Currently hustling with Web3.0 to implement my Startup Idea into working prototype 💡
 - I’m looking to collaborate on **any project which solves any real-life problem**
 - I'm a **Young Tech Explorer** who loves to try out different domains of technology existing on the planet 🌍
 
