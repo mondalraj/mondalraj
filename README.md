@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm A Passionate Self-Taught Software Developer from India</h1>
 
-| 👨‍💻 Full Stack Developer | ⧫ Web3 Application Developer | 🤖 Learning Data Science | 
+| 👨‍💻 Full Stack Developer | ⧫ Web3 Application Developer | 🤖 Learning ML | 
 | --- | ----------- | ---- |
 
 <a align="center" href="https://rajibmondal.vercel.app/"> <img alt="Portfolio" src ="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fmukulrajpoot.com"> </a>
